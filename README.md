@@ -3,7 +3,6 @@ Hi 👋 My name is Chanon "Win" Charuchinda
 
 **About me**✏️: I'm currently an undergraduate student majoring in Digital Engineering, who is passionate with making impactful contribution to the organization using real-world data. Exploring new technologies and frameworks and constantly seeking to be an eager student of the ever-evolving world of technology are characteristics I strive to maintain and cultivate.
 
-* 🌍  I'm based in Bangkok, Thailand
 *  🧠  Embrace the lifelong learning 
 * 🖥️  See my [Kaggle Profile](https://www.kaggle.com/chanoncharuchinda) 
 
